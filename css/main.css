@@ -1,0 +1,53 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+    .col-md-3 {
+    border-style: groove;
+    }
+
+   .align-self-start {
+    border-style: solid;
+   }
+   .align-self-center {
+    border-style: solid;
+   }
+   .align-self-end {
+    border-style: solid;
+   }
+
+   .col {
+    border-style: solid;
+   }
+
+
+.img {
+    height: 245px;
+    width: 365px;
+    float: right;
+    padding: 0.5%;
+    margin-right: 70px;
+    margin-top: -30px;
+}
+
+.img1 {
+    margin-left: 9.5%;
+    width: 200px;
+}
+
+.p {
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
